@@ -2,7 +2,7 @@
 using ContactManager.Core.Enums;
 using System.ComponentModel.DataAnnotations;
 
-namespace ContactManager.Core.Dto
+namespace ContactManager.Applications.Dto
 {
     public class PersonAddRequest
     {

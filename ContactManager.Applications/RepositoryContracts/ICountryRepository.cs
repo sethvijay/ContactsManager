@@ -1,6 +1,6 @@
 ﻿using ContactManager.Core.Domain.Entities;
 
-namespace ContactManager.Core.Domain.RepositoryContracts
+namespace ContactManager.Applications.RepositoryContracts
 {
     /// <summary>
     /// Represents data access logic for managing Country entity

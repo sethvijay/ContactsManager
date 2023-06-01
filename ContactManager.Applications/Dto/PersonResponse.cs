@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ContactManager.Core.Dto
+namespace ContactManager.Applications.Dto
 {
     public class PersonResponse
     {

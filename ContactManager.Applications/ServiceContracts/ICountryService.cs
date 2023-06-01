@@ -1,4 +1,4 @@
-﻿using ContactManager.Core.Dto;
+﻿using ContactManager.Applications.Dto;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ContactManager.Core.ServiceContracts
+namespace ContactManager.Applications.ServiceContracts
 {
     public interface ICountryService
     {

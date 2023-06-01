@@ -1,6 +1,6 @@
 ﻿using ContactManager.Core.Domain.Entities;
 
-namespace ContactManager.Core.Dto
+namespace ContactManager.Applications.Dto
 {
     /// <summary>
     /// DTO class for adding country
